@@ -5,6 +5,9 @@ A modern To-Do application built with **HTML, CSS, and Vanilla JavaScript**.
 This project was created to strengthen my understanding of JavaScript fundamentals, DOM manipulation, state management, and browser storage before moving on to React.
 
 ---
+## 🌐 Live Demo
+
+🔗 https://yourusername.github.io/your-repo-name/
 
 ## ✨ Features
 
